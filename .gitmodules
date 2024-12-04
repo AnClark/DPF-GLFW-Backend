@@ -1,0 +1,9 @@
+[submodule "deps/dpf"]
+	path = deps/dpf
+	url = https://github.com/DISTRHO/DPF.git
+[submodule "deps/glfw"]
+	path = deps/glfw
+	url = https://github.com/AnClark/GLFW.git
+[submodule "deps/imgui"]
+	path = deps/imgui
+	url = https://github.com/ocornut/imgui.git
