@@ -1,3 +1,12 @@
+# clangd cache dir
+.cache/**
+
+# CMake build directories
+build*/**
+
+# Dear ImGui temporary files
+imgui.ini
+
 # Prerequisites
 *.d
 
